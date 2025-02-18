@@ -1,0 +1,10 @@
+D:\3.OU nam\2.C#\StructTime\StructTime\bin\Debug\StructTime.exe.config
+D:\3.OU nam\2.C#\StructTime\StructTime\bin\Debug\StructTime.exe
+D:\3.OU nam\2.C#\StructTime\StructTime\bin\Debug\StructTime.pdb
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.Form1.resources
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.Properties.Resources.resources
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.exe
+D:\3.OU nam\2.C#\StructTime\StructTime\obj\Debug\StructTime.pdb
