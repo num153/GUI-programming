@@ -1,0 +1,10 @@
+D:\3.OU nam\2.C#\FractionCal\FractionCal\bin\Debug\FractionCal.exe.config
+D:\3.OU nam\2.C#\FractionCal\FractionCal\bin\Debug\FractionCal.exe
+D:\3.OU nam\2.C#\FractionCal\FractionCal\bin\Debug\FractionCal.pdb
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.Properties.Resources.resources
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.exe
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.pdb
+D:\3.OU nam\2.C#\FractionCal\FractionCal\obj\Debug\FractionCal.Form1.resources
