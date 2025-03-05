@@ -1,9 +1,0 @@
-D:\BeHocToan\BeHocToan\bin\Debug\BeHocToan.exe.config
-D:\BeHocToan\BeHocToan\bin\Debug\BeHocToan.exe
-D:\BeHocToan\BeHocToan\bin\Debug\BeHocToan.pdb
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.csprojResolveAssemblyReference.cache
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.Form1.resources
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.Properties.Resources.resources
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.csproj.GenerateResource.Cache
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.exe
-D:\BeHocToan\BeHocToan\obj\Debug\BeHocToan.pdb
