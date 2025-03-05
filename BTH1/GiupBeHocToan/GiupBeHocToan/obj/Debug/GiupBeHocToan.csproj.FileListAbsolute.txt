@@ -1,0 +1,9 @@
+D:\GiupBeHocToan\GiupBeHocToan\bin\Debug\GiupBeHocToan.exe.config
+D:\GiupBeHocToan\GiupBeHocToan\bin\Debug\GiupBeHocToan.exe
+D:\GiupBeHocToan\GiupBeHocToan\bin\Debug\GiupBeHocToan.pdb
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.csprojResolveAssemblyReference.cache
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.Form1.resources
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.Properties.Resources.resources
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.csproj.GenerateResource.Cache
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.exe
+D:\GiupBeHocToan\GiupBeHocToan\obj\Debug\GiupBeHocToan.pdb
