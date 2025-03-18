@@ -1,0 +1,10 @@
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\bin\Debug\ClassPhanSo.exe.config
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\bin\Debug\ClassPhanSo.exe
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\bin\Debug\ClassPhanSo.pdb
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.Form1.resources
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.Properties.Resources.resources
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.exe
+D:\3.OU nam\2.C#\ClassPhanSo\ClassPhanSo\obj\Debug\ClassPhanSo.pdb
