@@ -1,0 +1,9 @@
+D:\LopPhanSo\LopPhanSo\bin\Debug\LopPhanSo.exe.config
+D:\LopPhanSo\LopPhanSo\bin\Debug\LopPhanSo.exe
+D:\LopPhanSo\LopPhanSo\bin\Debug\LopPhanSo.pdb
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.csprojResolveAssemblyReference.cache
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.Form1.resources
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.Properties.Resources.resources
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.csproj.GenerateResource.Cache
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.exe
+D:\LopPhanSo\LopPhanSo\obj\Debug\LopPhanSo.pdb

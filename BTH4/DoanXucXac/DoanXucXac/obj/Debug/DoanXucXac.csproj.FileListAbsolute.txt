@@ -1,0 +1,9 @@
+D:\DoanXucXac\DoanXucXac\bin\Debug\DoanXucXac.exe.config
+D:\DoanXucXac\DoanXucXac\bin\Debug\DoanXucXac.exe
+D:\DoanXucXac\DoanXucXac\bin\Debug\DoanXucXac.pdb
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.csprojResolveAssemblyReference.cache
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.Form1.resources
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.Properties.Resources.resources
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.csproj.GenerateResource.Cache
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.exe
+D:\DoanXucXac\DoanXucXac\obj\Debug\DoanXucXac.pdb
