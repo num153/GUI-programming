@@ -1,0 +1,9 @@
+D:\TangBong\TangBong\bin\Debug\TangBong.exe.config
+D:\TangBong\TangBong\bin\Debug\TangBong.exe
+D:\TangBong\TangBong\bin\Debug\TangBong.pdb
+D:\TangBong\TangBong\obj\Debug\TangBong.csprojResolveAssemblyReference.cache
+D:\TangBong\TangBong\obj\Debug\TangBong.Form1.resources
+D:\TangBong\TangBong\obj\Debug\TangBong.Properties.Resources.resources
+D:\TangBong\TangBong\obj\Debug\TangBong.csproj.GenerateResource.Cache
+D:\TangBong\TangBong\obj\Debug\TangBong.exe
+D:\TangBong\TangBong\obj\Debug\TangBong.pdb
