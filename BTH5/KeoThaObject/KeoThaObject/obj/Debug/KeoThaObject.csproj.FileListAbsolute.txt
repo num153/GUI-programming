@@ -1,0 +1,10 @@
+D:\KeoThaObject\KeoThaObject\bin\Debug\KeoThaObject.exe.config
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\bin\Debug\KeoThaObject.exe.config
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\bin\Debug\KeoThaObject.exe
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\bin\Debug\KeoThaObject.pdb
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.Properties.Resources.resources
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.exe
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.pdb
+C:\Users\admin\Desktop\KeoThaObject\KeoThaObject\obj\Debug\KeoThaObject.Form1.resources
