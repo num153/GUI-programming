@@ -1,0 +1,12 @@
+D:\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Paint\Paint\bin\Debug\Paint.exe
+D:\Paint\Paint\bin\Debug\Paint.pdb
+D:\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Paint\Paint\obj\Debug\Paint.FrmDrawText.resources
+D:\Paint\Paint\obj\Debug\Paint.FrmDrawWithMouse.resources
+D:\Paint\Paint\obj\Debug\Paint.FrmMain.resources
+D:\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Paint\Paint\obj\Debug\Paint.exe
+D:\Paint\Paint\obj\Debug\Paint.pdb
+D:\Paint\Paint\obj\Debug\Paint.FrmDrawImage.resources
