@@ -7,21 +7,15 @@ using System.Threading.Tasks;
 
 namespace DrawShape
 {
-    public enum ShapeType
-    {
-        Rectangle,
-        Triangle,
-        Ellipse,
-        Line
-    }
-    internal class Shape
+
+    class Shape
     {
         public Point p1, p2;
         public Color colorShape;
         public ShapeType nShape;
         
         public Shape() { 
-            p1 = p2 = new Point();
+            p1 = p2 = new Point(0,0);
         }
 
         public void Draw(Graphics g)

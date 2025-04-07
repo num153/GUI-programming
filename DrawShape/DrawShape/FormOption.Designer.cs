@@ -93,9 +93,11 @@
             this.pnColorPreview.Name = "pnColorPreview";
             this.pnColorPreview.Size = new System.Drawing.Size(472, 31);
             this.pnColorPreview.TabIndex = 1;
+            this.pnColorPreview.Click += new System.EventHandler(this.pnColorPreview_Click);
             // 
             // btnOk
             // 
+            this.btnOk.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnOk.Location = new System.Drawing.Point(104, 322);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(136, 42);
@@ -137,6 +139,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FormOption";
             this.Text = "FormOption";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormOption_FormClosing);
             this.Load += new System.EventHandler(this.FormOption_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

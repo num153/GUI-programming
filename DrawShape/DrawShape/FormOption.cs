@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace DrawShape
 {
@@ -35,6 +36,29 @@ namespace DrawShape
         private void groupBox1_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void pnColorPreview_Click(object sender, EventArgs e)
+        {
+            ColorDialog dlg = new ColorDialog();
+            dlg.FullOpen = true;
+            if(dlg.ShowDialog() == DialogResult.OK)
+            {
+                cl= dlg.Color;
+                pnColorPreview.BackColor= cl;
+            }
+        }
+
+        private void FormOption_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (rdRec.Checked)
+                st = ShapeType.Rectangle;
+            else if (rdEll.Checked)
+                st = ShapeType.Ellipse;
+            else if (rdTri.Checked)
+                st = ShapeType.Triangle;
+            else if (rdLine.Checked)
+                st = ShapeType.Line;
         }
     }
 }

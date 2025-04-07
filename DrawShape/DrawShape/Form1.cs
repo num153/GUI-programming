@@ -11,6 +11,13 @@ using System.Windows.Forms;
 
 namespace DrawShape
 {
+    public enum ShapeType
+    {
+        Rectangle,
+        Triangle,
+        Ellipse,
+        Line
+    }
     public partial class Form1 : Form
     {
         ArrayList arrShape = new ArrayList();
@@ -57,7 +64,7 @@ namespace DrawShape
             {
                 s.Draw(g);
             }
-
+            e.Graphics.DrawImage(drawing,0,0);
             g.Dispose(); //giai phong Graphic g
         }
 
@@ -72,6 +79,21 @@ namespace DrawShape
                 colorShape = f.cl;
                 nShape = f.st;
             }
+        }
+        protected override void OnPaintBackground(PaintEventArgs e)
+        {
+            base.OnPaintBackground(e);
+        }
+
+        private void clearAllToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            arrShape.Clear();
+            Invalidate();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
