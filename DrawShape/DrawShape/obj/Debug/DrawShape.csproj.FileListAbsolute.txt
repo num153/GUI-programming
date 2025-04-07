@@ -1,0 +1,11 @@
+D:\3.OU nam\2.C#\DrawShape\DrawShape\bin\Debug\DrawShape.exe.config
+D:\3.OU nam\2.C#\DrawShape\DrawShape\bin\Debug\DrawShape.exe
+D:\3.OU nam\2.C#\DrawShape\DrawShape\bin\Debug\DrawShape.pdb
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.Properties.Resources.resources
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.exe
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.pdb
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.Form1.resources
+D:\3.OU nam\2.C#\DrawShape\DrawShape\obj\Debug\DrawShape.FormOption.resources
