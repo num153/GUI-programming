@@ -1,0 +1,11 @@
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe.config
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.exe
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\bin\Debug\QuanLiNhanVien.pdb
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.Properties.Resources.resources
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.exe
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.pdb
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.FormDangNhap.resources
+D:\3.OU nam\2.C#\QuanLiNhanVien\QuanLiNhanVien\obj\Debug\QuanLiNhanVien.FormQuanLy.resources
