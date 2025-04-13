@@ -1,0 +1,12 @@
+D:\3.OU nam\2.C#\MyWord\MyWord\bin\Debug\MyWord.exe.config
+D:\3.OU nam\2.C#\MyWord\MyWord\bin\Debug\MyWord.exe
+D:\3.OU nam\2.C#\MyWord\MyWord\bin\Debug\MyWord.pdb
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.fm.resources
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.Properties.Resources.resources
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.exe
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.pdb
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.About.resources
+D:\3.OU nam\2.C#\MyWord\MyWord\obj\Debug\MyWord.SettingFrm.resources

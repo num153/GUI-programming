@@ -52,13 +52,9 @@
             this.highlightTextToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.edfdToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.richTxtBox = new System.Windows.Forms.RichTextBox();
-            this.sttBarContent = new System.Windows.Forms.ToolStripStatusLabel();
-            this.sttContent = new System.Windows.Forms.ToolStripStatusLabel();
-            this.sttBar = new System.Windows.Forms.StatusStrip();
+            this.edfdToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
-            this.sttBar.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -73,7 +69,7 @@
             this.edfdToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(733, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(559, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -262,14 +258,6 @@
             this.aboutToolStripMenuItem.Text = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click);
             // 
-            // edfdToolStripMenuItem
-            // 
-            this.edfdToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
-            this.edfdToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("edfdToolStripMenuItem.Image")));
-            this.edfdToolStripMenuItem.Name = "edfdToolStripMenuItem";
-            this.edfdToolStripMenuItem.Size = new System.Drawing.Size(34, 24);
-            this.edfdToolStripMenuItem.Click += new System.EventHandler(this.edfdToolStripMenuItem_Click);
-            // 
             // richTxtBox
             // 
             this.richTxtBox.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -278,40 +266,23 @@
             this.richTxtBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.richTxtBox.Location = new System.Drawing.Point(0, 26);
             this.richTxtBox.Name = "richTxtBox";
-            this.richTxtBox.Size = new System.Drawing.Size(733, 445);
+            this.richTxtBox.Size = new System.Drawing.Size(559, 355);
             this.richTxtBox.TabIndex = 1;
             this.richTxtBox.Text = "";
-            this.richTxtBox.TextChanged += new System.EventHandler(this.richTxtBox_TextChanged);
-            this.richTxtBox.Layout += new System.Windows.Forms.LayoutEventHandler(this.richTxtBox_Layout);
             // 
-            // sttBarContent
+            // edfdToolStripMenuItem
             // 
-            this.sttBarContent.Name = "sttBarContent";
-            this.sttBarContent.Size = new System.Drawing.Size(0, 16);
-            // 
-            // sttContent
-            // 
-            this.sttContent.Name = "sttContent";
-            this.sttContent.Size = new System.Drawing.Size(0, 16);
-            // 
-            // sttBar
-            // 
-            this.sttBar.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.sttBar.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.sttBarContent,
-            this.sttContent});
-            this.sttBar.Location = new System.Drawing.Point(0, 448);
-            this.sttBar.Name = "sttBar";
-            this.sttBar.Size = new System.Drawing.Size(733, 22);
-            this.sttBar.TabIndex = 2;
-            this.sttBar.Text = "statusStrip1";
+            this.edfdToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.edfdToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("edfdToolStripMenuItem.Image")));
+            this.edfdToolStripMenuItem.Name = "edfdToolStripMenuItem";
+            this.edfdToolStripMenuItem.Size = new System.Drawing.Size(34, 24);
+            this.edfdToolStripMenuItem.Click += new System.EventHandler(this.edfdToolStripMenuItem_Click);
             // 
             // fm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(733, 470);
-            this.Controls.Add(this.sttBar);
+            this.ClientSize = new System.Drawing.Size(559, 380);
             this.Controls.Add(this.richTxtBox);
             this.Controls.Add(this.menuStrip1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
@@ -320,13 +291,10 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "fm";
             this.Text = "MyWord";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.fm_FormClosing);
             this.Load += new System.EventHandler(this.fm_Load);
             this.TextChanged += new System.EventHandler(this.fm_TextChanged);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.sttBar.ResumeLayout(false);
-            this.sttBar.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -359,9 +327,6 @@
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.RichTextBox richTxtBox;
         private System.Windows.Forms.ToolStripMenuItem edfdToolStripMenuItem;
-        private System.Windows.Forms.ToolStripStatusLabel sttBarContent;
-        private System.Windows.Forms.ToolStripStatusLabel sttContent;
-        private System.Windows.Forms.StatusStrip sttBar;
     }
 }
 
