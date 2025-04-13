@@ -1,0 +1,12 @@
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\bin\Debug\GK-18-19-NguyenVanA.exe.config
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\bin\Debug\GK-18-19-NguyenVanA.exe
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\bin\Debug\GK-18-19-NguyenVanA.pdb
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.Form1.resources
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.FrmDelay.resources
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.Properties.Resources.resources
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.exe
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.pdb
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.FrmImg.resources
