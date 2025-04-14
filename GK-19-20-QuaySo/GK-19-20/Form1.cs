@@ -97,7 +97,7 @@ namespace GK_19_20
                 tienUser += tienCuocChanLe;
 
             }
-            else if(!chan && rdLe.Checked || !khoangtrai && rd1118.Checked)
+            else if(!chan && rdLe.Checked)
             {
                 tienUser += tienCuocChanLe;
             }
