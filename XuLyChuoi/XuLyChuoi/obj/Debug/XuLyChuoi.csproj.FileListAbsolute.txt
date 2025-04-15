@@ -1,0 +1,10 @@
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe.config
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.pdb
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Form1.resources
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.Properties.Resources.resources
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.exe
+D:\3.OU nam\2.C#\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.pdb
