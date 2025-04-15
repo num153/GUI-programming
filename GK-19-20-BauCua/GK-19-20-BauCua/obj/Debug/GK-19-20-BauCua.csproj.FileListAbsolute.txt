@@ -1,0 +1,11 @@
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\bin\Debug\GK-19-20-BauCua.exe.config
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\bin\Debug\GK-19-20-BauCua.exe
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\bin\Debug\GK-19-20-BauCua.pdb
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK-19-20-BauCua.csproj.AssemblyReference.cache
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK_19_20_BauCua.Form1.resources
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK_19_20_BauCua.FrmLoading.resources
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK_19_20_BauCua.Properties.Resources.resources
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK-19-20-BauCua.csproj.GenerateResource.cache
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK-19-20-BauCua.csproj.CoreCompileInputs.cache
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK-19-20-BauCua.exe
+D:\3.OU nam\2.C#\GK-19-20-BauCua\GK-19-20-BauCua\obj\Debug\GK-19-20-BauCua.pdb
