@@ -1,0 +1,13 @@
+D:\LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+D:\LTGD\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FrmMain.resources
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FrmDrawText.resources
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FrmImage.resources
+D:\LTGD\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FrmDrawWithMouse.resources
