@@ -1,0 +1,11 @@
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\bin\Debug\Ontap_C2_BTVN.exe.config
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\bin\Debug\Ontap_C2_BTVN.exe
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\bin\Debug\Ontap_C2_BTVN.pdb
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.csproj.AssemblyReference.cache
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.Form1.resources
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.Properties.Resources.resources
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.csproj.GenerateResource.cache
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.csproj.CoreCompileInputs.cache
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.exe
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.pdb
+D:\LT Giao diện\Ontap_C2_BTVN\Ontap_C2_BTVN\obj\Debug\Ontap_C2_BTVN.Form2.resources
