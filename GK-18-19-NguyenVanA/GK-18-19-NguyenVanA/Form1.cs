@@ -27,5 +27,11 @@ namespace GK_18_19_NguyenVanA
             FrmImg f = new FrmImg();
             f.ShowDialog();
         }
+
+        private void listToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmList f = new FrmList();
+            f.ShowDialog();
+        }
     }
 }

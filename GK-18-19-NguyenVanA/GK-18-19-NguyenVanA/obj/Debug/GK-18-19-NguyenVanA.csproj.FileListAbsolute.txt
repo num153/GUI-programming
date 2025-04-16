@@ -10,3 +10,4 @@ D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-Nguy
 D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.exe
 D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK-18-19-NguyenVanA.pdb
 D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.FrmImg.resources
+D:\3.OU nam\2.C#\GK-18-19-NguyenVanA\GK-18-19-NguyenVanA\obj\Debug\GK_18_19_NguyenVanA.FrmList.resources
